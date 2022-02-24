@@ -47,9 +47,10 @@ body {
 
 /* Style the footer */
 .footer {
-  background-color: black;
-  padding: 10px;
+  background-color: #B00000;
+  padding: 19px;
   text-align: center;
+  height:100%;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
@@ -61,4 +62,13 @@ body {
 #image{
   height:100%;
   width:100%;
+}
+
+#deadpool{
+  height:30%;
+  width:30%;
+  float: right;
+}
+body{
+  background-color:#383838;
 }
